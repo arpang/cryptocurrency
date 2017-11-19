@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="grading">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/grading/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/grading/scroogeCoinGrader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/grading/rsa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
